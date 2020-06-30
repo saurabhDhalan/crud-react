@@ -1,0 +1,42 @@
+.button_container{
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    box-shadow: 0 1px #999
+
+}
+.button_green {
+    background-color: rgb(48, 202, 48);
+
+}
+.button_green:hover {
+    background-color: #218d24;
+}   
+.button_blue{
+    background-color: blueviolet;
+}    
+.button_blue:hover {
+    background-color: rgb(92, 31, 150);
+}
+.button{
+    color : whitesmoke;
+    margin : 0 10px ;
+}
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  th, td {
+    padding: 15px;
+  }
